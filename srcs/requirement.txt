@@ -3,7 +3,7 @@ chardet==3.0.4
 dataclasses==0.6
 Django==2.1.7
 django-slack==5.13.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djongo==1.2.32
 dojango==0.5.8
 future==0.17.1
